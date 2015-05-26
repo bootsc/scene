@@ -2,8 +2,8 @@
   "locals": {
     "url": "http://localhost:8080",
     "name": "Behind the Scenes",
-    "owner": "Bouchat",
-    "description": "Taking Photos"
+    "owner": "Brussels Photography",
+    "description": "The making of the shot"
   },
   "plugins": [
     "./plugins/paginator.coffee"

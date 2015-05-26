@@ -4,12 +4,14 @@ block content
   include author
   each article in articles
     article.article.intro
-      header
+      header.content-wrap
         p.date
           span= moment.utc(article.date).format('DD. MMMM YYYY')
         h2
           a(href=article.url)= article.title
-      section.content
+      section
+        img(src=article.metadata.cover).cover
+      section.content.content-wrap
         if article.intro.length > 0
           != typogr(article.intro).typogrify()
         if article.hasMore

@@ -127,6 +127,10 @@ body.article-detail > header {
   margin-bottom: 3em;
 }
 
+.cover{
+  width: 100%;
+}
+
 /* page footer */
 
 footer {

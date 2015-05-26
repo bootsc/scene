@@ -1,4 +1,5 @@
 
-# Blog
+# Behind the Scenes
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+A blog about photography and the making of the shot.
+

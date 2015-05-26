@@ -21,10 +21,11 @@ html(lang='en')
             h1
               a(href=locals.url)= locals.name
             p.description= locals.description
+    div#cover
+      block cover
     div#content
-      div.content-wrap
-        block content
-          h2 Welcome to zombocom!
+      block content
+        h2 Welcome to zombocom!
     footer
       div.content-wrap
         block footer

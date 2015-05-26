@@ -4,11 +4,12 @@ photographer: david
 author: amber
 date: 2015-05-25
 template: article.jade
+cover: /images/shottodeath.png
 ---
 
-![Shot To Death][shot]
-
 “… did you see that?!”  His eyes were twitching with excitement.  He couldn’t have stopped the corners of his mouth from curving up even if his life depended on it.  Excitement, for sure, but he also smiles when he’s nervous.  And he knew I was borderline grouchy and didn’t want to stop.
+
+<span class="more">
 
 “What?” I said quickly, as un-annoyed as I could.  For some reason I pretended like I didn’t know what he was talking about.  Of course I knew- anyone who’d spend 5 minutes with the guy could have guessed.  We’d just come down from Independence pass and were streaming along the tapering foothills of colorado, soft rolling hills all the remain of the jagged barren peaks of an hour ago.
 
@@ -26,7 +27,7 @@ We pulled off to the side and I stared out into the field, trying to see what he
 
 ![Break on the Road][break]
 
-As he lugged his camera out into the field, my nervousness about private property and guns quadrupled.  But there was nothing to be done at that point so I sat and watched.  I noticed the fog and I wished my phone had reception.  I wondered at our luck that the babe was still sleeping and I cursed him for taking forever (ok, ok: 10 minutes).
+As he lugged his camera out into the field, my nervousness about private property and guns quadrupled.  But there was nothing to be done at that point so I sat and watched.  And waiting.  And I noticed that the clouds and the fog was kind of sureal.  and I wished my phone had reception.  I wondered at our luck that the babe was still sleeping and I cursed him for taking forever (ok, ok: 10 minutes).
 
 That night, we ended up in a mediocre motel room with an awkward smell that made me really look forward to not staying in hotel rooms anymore.  But our dinner was surprisingly upscale and even trendy- surprised us both in such a small remote town- and the next day at the Sand Dunes was gorgeous.  Nothing would have been different in the slightest, let alone better, if we hadn’t taken 20 minutes to pull over at the rusty old car.  And to this day, I really love the shot.
 
