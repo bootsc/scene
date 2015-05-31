@@ -1,5 +1,5 @@
 
 # Behind the Scenes
 
-A blog about photography and the making of the shot.
+An observer's blog about a photographer
 
