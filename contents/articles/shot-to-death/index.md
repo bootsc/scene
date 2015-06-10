@@ -27,7 +27,7 @@ We pulled off to the side and I stared out into the field, trying to see what he
 
 ![Break on the Road][break]
 
-As he lugged his camera out into the field, my nervousness about private property and guns quadrupled.  But there was nothing to be done at that point so I sat and watched.  And waiting.  And I noticed that the clouds and the fog was beautiful and kind of surreal.  And I wished my phone had reception.  I wondered at our luck that the babe was still sleeping and I cursed him for taking forever (read: ten minutes).
+As he lugged his camera out into the field, my nervousness about private property and guns quadrupled.  But there was nothing to be done at that point so I sat and watched.  And waited.  And I noticed that the clouds and the fog were beautiful and kind of surreal.  And I wished my phone had reception.  I wondered at our luck that the babe was still sleeping and I cursed him for taking forever (read: ten minutes).
 
 That night, we ended up in a mediocre motel room with an awkward smell that made me really look forward to not staying in hotel rooms anymore.  But our dinner was unexpectedly upscale and trendy- surprising us both in such a small remote town- and the next day at the Sand Dunes was absolutely gorgeous.  Nothing would have been different in the slightest, let alone better, if we hadn’t taken 20 minutes to pull over at that rusty old car.  And to this day, I really do love the shot.
 

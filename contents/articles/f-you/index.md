@@ -7,20 +7,20 @@ template: article.jade
 cover: /images/fyou.jpg
 ---
 
-He had been talking about Jimmy's Old Car Picnic for weeks.  The event really did seem as if it was made for specifically for David: old car themed, dog friendly, and right next to our house.  I loved that he was always finding these things and that he had enough enthusiasm to infect me *and* our friends and neighbors.
+He had been talking about Jimmy's Old Car Picnic for weeks.  The event really did seem as if it was made specifically for David: old car themed, dog friendly, and right next to our house.  I loved that he was always finding these things and that he had enough enthusiasm to infect me *and* our friends and neighbors.
 
 <span class="more">
 
 
-It was held in Golden Gate Park which is not, as you might guess, the park surrounding the Golden Gate Bridge, but in fact the next one down.  It stretches from the middle of San Francisco to the ocean and is gorgeous.  I heard one time that everything there was originally planted by hand and I would find myself contemplating that every time I jogged through the massive trees.
+It was held in Golden Gate Park which is not, as you might guess, the park surrounding the Golden Gate Bridge.  Instead it stretches from the middle of San Francisco to the western coast and is gorgeous.  I was told once that all the plants in it were originally planted by hand and I would find myself contemplating that every time I jogged through the massive trees.
 
 ![Picnic][picnic]
 
-The picnic involved lots of eating, drinking, and aimless shop-talk.  And, of course, there were tons of old cars.  Each was required to be pre-1970 to be admitted in the venue and it seemed like the kind of event that people came to year after year.  These cars were their all-consuming projects and their babies.
+The picnic involved lots of eating, drinking, and aimless shop-talk.  Also, of course, there were tons of old cars.  Each was required to be pre-1970 in order to be admitted in the venue and it seemed like the kind of event that people came to year after year.  These cars were their all-consuming projects and their babies.
 
-David’s was a 1960 Chevy Bel Air.  It was by no means the fanciest. It had some paint missing, the interior needed to be completely redone, and no doubt needed a long list of mechanical improvements.  But I prefer that aesthetic- when the car has some character and patina.  Not to mention, lots of the others were too polished and precious to drive while David used his almost daily.
+David’s was a 1960 Chevy Bel Air.  It was by no means the fanciest. It had some paint missing, the interior needed to be completely redone, and no doubt needed a long list of mechanical improvements.  But I prefer that aesthetic- when the car has some character and patina.  Not to mention, lots of the others were too polished and precious to sit in, let alone drive while David used his almost daily.
 
-At some point, an older gentleman came by and asked him about the Bel Air.  Turns out he was fixing one up as well, so they talked parts for a bit and bonded over their love of rusty metal.
+There was lots of ooo-ing and aaah-ing and guessing of the year, make, model.  At some point, an older gentleman came by and asked David about the Bel Air.  Turns out he was fixing one up as well, so they talked parts for a bit and bonded over their love of rusty metal.
 
 ![Bel Air][belair]
 
