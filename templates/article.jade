@@ -11,13 +11,13 @@ block header
   include author
   h1= page.title
   p.author
-    | #{ "Photographed by " }
+    | #{ "Photos by " }
     mixin author(page.metadata.photographer)
-    | #{ " | Written by " }
+    | #{ " | Words by " }
     mixin author(page.metadata.author)
 
 block cover
- img(src=page.metadata.cover).cover
+ img(src=locals.cdn + page.metadata.cover).cover
 
 block content
   div.content-wrap

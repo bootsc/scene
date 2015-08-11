@@ -10,7 +10,7 @@ block content
         h2
           a(href=article.url)= article.title
       section
-        img(src=article.metadata.cover).cover
+        img(src=locals.cdn+article.metadata.cover).cover
       section.content.content-wrap
         if article.intro.length > 0
           != typogr(article.intro).typogrify()

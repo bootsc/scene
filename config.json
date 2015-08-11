@@ -2,8 +2,9 @@
   "locals": {
     "url": "http://bouchatphotography.com",
     "name": "Behind the Scenes",
-    "owner": "Brussels Photography",
-    "description": "The making of the shot"
+    "owner": "Brussels LLC",
+    "description": "The making of the shot",
+    "cdn": "http://dzakzqlbszfdp.cloudfront.net"
   },
   "plugins": [
     "./plugins/paginator.coffee"
@@ -21,6 +22,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 5
+    "perPage": 3
   }
 }
